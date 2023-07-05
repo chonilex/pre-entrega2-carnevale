@@ -162,3 +162,8 @@ a:hover {
 .cont-p {
   padding-top: 25px;
 }
+
+.ul-banner {
+  list-style: none;
+  text-align: center;
+}
