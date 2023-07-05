@@ -1,0 +1,164 @@
+body {
+  background-color: #1d202b;
+  color: #fff;
+}
+
+.section-padding {
+  padding: 100px 0;
+}
+
+.carousel-item {
+  object-fit: cover;
+  height: 70vh;
+  min-height: 200px;
+  background-size: cover;
+}
+
+.c-img {
+  object-fit: cover;
+}
+
+.cont {
+  padding-top: 90px;
+  padding-bottom: 15px;
+}
+
+h6 {
+  padding-bottom: 10px;
+}
+
+footer {
+  background-color: rgb(24, 24, 24);
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.cont-footer {
+  display: flex;
+}
+
+.twitter {
+  background-color: rgb(85, 85, 85);
+  flex-grow: 1;
+}
+
+.facebook {
+  background-color: rgb(85, 85, 85);
+  flex-grow: 1;
+}
+
+.instagram {
+  background-color: rgb(85, 85, 85);
+  flex-grow: 1;
+}
+
+.copyright {
+  padding: 15px 0;
+  text-align: center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.body-manga {
+  background: #1d202b;
+  color: #fff;
+}
+
+.h4-manga {
+  padding-top: 80px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.h2-manga {
+  padding-top: 100px;
+  padding-bottom: 45px;
+}
+
+.contenedor {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 40px 30px;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 20px;
+}
+
+.cont-manga {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.card {
+  border-radius: 10px;
+  min-height: 200px;
+  font-weight: bold;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center center;
+}
+
+.card .textos {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.banner {
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+  background-size: cover;
+  background-position: center center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.car-manga {
+  object-fit: cover;
+  height: 100vh;
+  min-height: 300px;
+  background-size: cover;
+}
+
+.card-text {
+  color: black;
+}
+
+.card-group {
+  padding: 30px;
+}
+
+.ul-footer {
+  padding-top: 10px;
+  list-style: none;
+  text-align: center;
+}
+
+.cont-lp {
+  padding-top: 40px;
+}
+
+.carousel-lp {
+  padding-top: 30px;
+}
+
+.cont-p {
+  padding-top: 25px;
+}
